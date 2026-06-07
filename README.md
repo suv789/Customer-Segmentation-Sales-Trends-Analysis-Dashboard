@@ -36,12 +36,12 @@ SQL	                Data Extraction & Preparation
 MySQL DB	          Source Data
 
 📂 Dashboards
-** Customer wise sales trends
-** Dealer wise sales trends
-** Sales Contribution by HOD
-** Top Contributor Analysis
-** YoY Coparative Analysis
-** MoM on Comparative Analysis
+**Customer wise sales trends
+**Dealer wise sales trends
+**Sales Contribution by HOD
+**Top Contributor Analysis
+**YoY Coparative Analysis
+**MoM on Comparative Analysis
 
 📈 Key KPIs
 Customer KPIs
