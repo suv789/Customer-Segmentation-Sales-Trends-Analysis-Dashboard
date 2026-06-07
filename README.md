@@ -44,17 +44,20 @@ MySQL DB	          Source Data
 - MoM on Comparative Analysis
 
 📈 Key KPIs
-Customer KPIs
-Total Active Customers
-Total Inactive Customers
-Total New Customers
-Total Old Customers
+- Customer KPIs
+- Total Active Customers
+- Total Inactive Customers
+- Total New Customers
+- Total Old Customers
 
 Sales KPIs: 
-Total Sales Quantity (MT)
-Previous Year Sales
-2 Years Back Sales
-YoY Growth %
+- otal Sales Quantity (MT)
+- Previous Year Sales
+- 2 Years Back Sales
+- YoY Growth %
 
 📊 Dashboard Screenshot
+
 ![Dashboard Screenshot](images/Customer-Segmentation.png)
+
+
