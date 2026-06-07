@@ -57,3 +57,4 @@ Previous Year Sales
 YoY Growth %
 
 📊 Dashboard Screenshot
+![Dashboard Screenshot](images/Customer Segmentation.png)
