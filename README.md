@@ -55,6 +55,20 @@ Sales KPIs:
 - Previous Year Sales
 - 2 Years Back Sales
 - YoY Growth %
+
+⚠️ Demo Dashboard Note
+
+This repository contains a demonstration version of the Customer Segmentation & Sales Trends Analysis Dashboard.
+
+Due to data confidentiality and source system restrictions, the original production data source is not connected in the publicly shared version. As a result, certain customer segmentation KPIs such as:
+
+New Customers
+Active Customers
+
+may display Blank values in the dashboard screenshots.
+
+The segmentation logic, DAX calculations, report design, data model, and business rules have been fully implemented and validated in the original development environment. The blank values are only due to the absence of the live source data required for those calculations.
+
 ## Project link 
 [Download BI file](https://drive.google.com/file/d/1R75SdDeeHk562h-pzHBJmI1cLrdxtbwf/view?usp=drive_link-link-here)
 
