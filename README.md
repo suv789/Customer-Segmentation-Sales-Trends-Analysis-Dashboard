@@ -36,7 +36,7 @@ SQL	                Data Extraction & Preparation
 MySQL DB	          Source Data
 
 📂 Dashboards
-*Customer wise sales trends
+--Customer wise sales trends
 *Dealer wise sales trends
 *Sales Contribution by HOD
 *Top Contributor Analysis
