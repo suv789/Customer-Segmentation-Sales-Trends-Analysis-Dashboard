@@ -60,4 +60,7 @@ Sales KPIs:
 
 ![Dashboard Screenshot](images/Customer-Segmentation.png)
 
+![Dashboard Screenshot](images/Contribution-by-HOD.png)
+
+
 
