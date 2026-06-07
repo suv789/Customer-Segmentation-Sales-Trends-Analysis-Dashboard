@@ -55,6 +55,9 @@ Sales KPIs:
 - Previous Year Sales
 - 2 Years Back Sales
 - YoY Growth %
+## Project link 
+[Download BI file](https://drive.google.com/file/d/1R75SdDeeHk562h-pzHBJmI1cLrdxtbwf/view?usp=drive_link-link-here)
+
 
 📊 Dashboard Screenshot
 
